@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hi, I'm Naveen Chary
 
-<!--
-**Naveenchary04/Naveenchary04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 CSE (AIML) Student | 💻 Developer | 🤖 AI/ML Enthusiast  
+📫 [naveenchary04@gmail.com](mailto:naveenchary04@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/naveenchary) | [GitHub](https://github.com/Naveenchary04)
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` `Node.js` `MongoDB` `TensorFlow` `HTML/CSS` `JavaScript` `C++`
+
+### 📈 GitHub Stats
+
+![Naveen’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveenchary04&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenchary04&layout=compact&theme=radical)
